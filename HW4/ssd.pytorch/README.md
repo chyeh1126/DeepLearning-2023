@@ -8,3 +8,6 @@
 - data/voc2007.py
 - layers/box_utils.py
   
+## 執行
+- train.py
+- eval.py
