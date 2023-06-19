@@ -8,6 +8,8 @@
 - data/voc2007.py
 - layers/box_utils.py
   
-## 執行
+## 訓練
 - train.py
+## 評估
 - eval.py
+  評估結果在ssd300_10000/test
